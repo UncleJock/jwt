@@ -1,6 +1,0 @@
-.idea
-.idea/*
-.vendor
-.vendor/*
-composer.lock
-/vendor/

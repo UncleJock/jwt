@@ -1,0 +1,23 @@
+{
+    "name": "com.bangmoo/jwt",
+    "description": "this new jwt",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bangmoo",
+			      "email": "spirit_cjw@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0",
+        "ext-mbstring": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bonza\\jwt\\": "src/"
+        }
+    }
+}

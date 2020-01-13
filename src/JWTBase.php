@@ -1,4 +1,5 @@
 <?php
+namespace bangmoo\jwt;
 
 use DomainException;
 

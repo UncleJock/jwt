@@ -1,4 +1,5 @@
 <?php
+namespace bangmoo\jwt;
 
 $header = [
     'alg' => 'sha256',//算法

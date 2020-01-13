@@ -1,5 +1,7 @@
 <?php
 
+namespace bangmoo\jwt;
+
 use Exception;
 use UnexpectedValueException;
 

@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "bangmoo",
-			      "email": "spirit_cjw@163.com"
+            "email": "spirit_cjw@163.com"
         }
     ],
     "minimum-stability": "stable",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bonza\\jwt\\": "src/"
+            "bangmoo\\jwt\\": "src/"
         }
     }
 }
